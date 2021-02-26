@@ -1,2 +1,2 @@
 # Movies-ETL
-Created an aotomated pipeline that takes in new Data
+Created an automated pipeline that takes in new Data.
